@@ -5,6 +5,5 @@ int main() {
     // this has been edited edited
     // this has been done while checking branching concept //. done for checking merge conflict
     // second tim braching has been done
-    // I m rishu raj 
     return 0;
 }
