@@ -10,5 +10,7 @@ int main() {
     // to check branching //.
     //how are you 
     // change made in main branch for rebase cehcking using 6-branch
+    // changes made iin 1.cpp while remaining in 6-brancg-for-rebas--  for rebase checkning
+
     return 0;
 }
