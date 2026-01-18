@@ -9,6 +9,6 @@ int main() {
     // secoonf time chnage to 1-branch 
     // to check branching //.
     //how are you 
-
+    // change made in main branch for rebase cehcking using 6-branch
     return 0;
 }
