@@ -6,5 +6,7 @@ int main() {
     // this has been done while checking branching conecptg
 
     //. this is 3rn branch work done
+    // this has been done while checking branching concept //. done for checking merge conflict
+    // second tim braching has been done
     return 0;
 }

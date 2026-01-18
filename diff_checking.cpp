@@ -2,8 +2,8 @@
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
-    // this has been done while checking branching conecpt
+    // this is demo
+    // this has been done because of branching concept in 1.cpp
     // second time branching has been done
-    // changes done by 5th branch
     return 0;
 }
